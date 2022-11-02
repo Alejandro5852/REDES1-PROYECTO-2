@@ -34,7 +34,7 @@ Grupo1
 
 ## Arquitectura
 
-#### 2.Topologia 1
+#### 1.Topologia 1
 
 ![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/topo.png](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/topo.png)
 
@@ -60,3 +60,17 @@ Grupo1
 ![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/7.png](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/7.png)
 
 ![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/8.png](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/8.png)
+
+#### 2.Topologia 2
+
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b2.jpeg](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b2.jpeg)
+
+-DHCP
+
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b1.jpeg](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b1.jpeg)
+
+-VPC
+
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b1.jpeg](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b1.jpeg)
+
+
