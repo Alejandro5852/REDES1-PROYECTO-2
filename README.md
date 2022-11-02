@@ -17,6 +17,21 @@ Grupo1
 
 </div>
 
+## Subnetting
+
+### Clouds
+
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b4.jpeg](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b4.jpeg)
+
+### Topologia 1
+
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/ss.png](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/ss.png)
+
+### Topologia 2
+
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b3.jpeg](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/b3.jpeg)
+
+
 ## Arquitectura
 
 #### 2.Topologia 1
@@ -42,6 +57,6 @@ Grupo1
 
 ![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/6.png](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/6.png)
 
-![https://github.com/Alejandro5852/-REDES1-PRACTICA1-GRUPO1/blob/main/src/ANGEL/CapturaP2.2.png](https://github.com/Alejandro5852/-REDES1-PRACTICA1-GRUPO1/blob/main/src/ANGEL/CapturaP2.2.png)
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/7.png](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/7.png)
 
-![https://github.com/Alejandro5852/-REDES1-PRACTICA1-GRUPO1/blob/main/src/ANGEL/CapturaP2.2.png](https://github.com/Alejandro5852/-REDES1-PRACTICA1-GRUPO1/blob/main/src/ANGEL/CapturaP2.2.png)
+![https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/8.png](https://github.com/Alejandro5852/REDES1-PROYECTO-2/blob/master/recursos/8.png)
